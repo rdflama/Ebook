@@ -1,0 +1,6 @@
+{
+  "name": "Lumina Reader - iOS E-Reader",
+  "description": "An iOS-style e-reader app for iPhone supporting PDF, EPUB, and MOBI books with offline storage, custom fonts and themes, bookmarking, admin uploads, and Google Drive cloud sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
